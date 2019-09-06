@@ -12,7 +12,7 @@ $ gatsby new gatsby-site
 
 ## Deploying this Example
 
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://front-ggk8lk8ie.zeit.sh/new/project?template=https://github.com/zeit/now-examples/tree/master/amp)
+[![Deploy with ZEIT Now](https://zeit.co/button)](https://front-ggk8lk8ie.zeit.sh/new/project?template=https://github.com/zeit/now-examples/tree/master/gatsby)
 
 Once initialized, you can deploy the Gatsby example with just a single command:
 
