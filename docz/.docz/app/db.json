@@ -1,0 +1,37 @@
+{
+  "config": {
+    "title": "My Docz Project",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "version": "1.0.0",
+    "repository": null,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {},
+    "separator": "-",
+    "dest": "/public",
+    "public": "/pub"
+  },
+  "entries": [
+    {
+      "key": "hello-world.mdx",
+      "value": {
+        "name": "Hello world",
+        "route": "/",
+        "id": "874c5050b3e42fcf460a4fcd8044dfdb",
+        "filepath": "hello-world.mdx",
+        "link": "",
+        "slug": "hello-world",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "hello-world",
+            "depth": 1,
+            "value": "Hello world!"
+          }
+        ]
+      }
+    }
+  ],
+  "props": []
+}
